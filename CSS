@@ -1,3 +1,4 @@
+<style>
 @font-face {
   font-family: 'Berlingske Serif';
   src: url('https://drive.google.com/uc?export=download&id=1tufGlXXHivuVf24zq7-9WgZ_5kKFQzzT') format('opentype');
@@ -8,3 +9,4 @@ body {
   font-family: 'Berlingske Serif', sans-serif;
   font-weight: 500; /* Apply the same font weight to the body text */
 }
+</style>
